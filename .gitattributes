@@ -1,1 +1,2 @@
 cifar100/3.0.2/cifar100-train.tfrecord-00000-of-00001 filter=lfs diff=lfs merge=lfs -text
+cifar100/3.0.0/cifar100-train.tfrecord-00000-of-00001 filter=lfs diff=lfs merge=lfs -text
